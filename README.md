@@ -1,2 +1,2 @@
-# My_Portfolio
-This is my personal Portfolio
+# Portfolio
+This Portfolio is made by me
